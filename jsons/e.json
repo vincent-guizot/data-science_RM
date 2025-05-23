@@ -1,0 +1,880 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Carol White",
+      "email": "carol@example.com"
+    },
+    {
+      "id": 4,
+      "name": "David Lee",
+      "email": "david@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Eva Brown",
+      "email": "eva@example.com"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "FreshFarm Apple",
+      "category": "Produce",
+      "price": 1.29,
+      "stock": 150
+    },
+    {
+      "id": 2,
+      "name": "GreenValley Milk",
+      "category": "Dairy",
+      "price": 3.49,
+      "stock": 80
+    },
+    {
+      "id": 3,
+      "name": "NatureBest Bread",
+      "category": "Bakery",
+      "price": 2.99,
+      "stock": 60
+    },
+    {
+      "id": 4,
+      "name": "PureChoice Orange Juice",
+      "category": "Beverages",
+      "price": 4.59,
+      "stock": 90
+    },
+    {
+      "id": 5,
+      "name": "GoldenHarvest Potato Chips",
+      "category": "Snacks",
+      "price": 2.49,
+      "stock": 120
+    },
+    {
+      "id": 6,
+      "name": "SnackTime Chocolate Bar",
+      "category": "Snacks",
+      "price": 1.99,
+      "stock": 200
+    },
+    {
+      "id": 7,
+      "name": "DailyDairy Yogurt",
+      "category": "Dairy",
+      "price": 1.89,
+      "stock": 100
+    },
+    {
+      "id": 8,
+      "name": "FreshFarm Banana",
+      "category": "Produce",
+      "price": 0.79,
+      "stock": 180
+    },
+    {
+      "id": 9,
+      "name": "GreenValley Cheese",
+      "category": "Dairy",
+      "price": 5.49,
+      "stock": 40
+    },
+    {
+      "id": 10,
+      "name": "NatureBest Frozen Peas",
+      "category": "Frozen",
+      "price": 3.99,
+      "stock": 70
+    },
+    {
+      "id": 11,
+      "name": "PureChoice Canned Beans",
+      "category": "Canned Goods",
+      "price": 1.59,
+      "stock": 130
+    },
+    {
+      "id": 12,
+      "name": "GoldenHarvest Rice",
+      "category": "Dry Goods",
+      "price": 4.29,
+      "stock": 50
+    },
+    {
+      "id": 13,
+      "name": "SnackTime Cookies",
+      "category": "Snacks",
+      "price": 3.29,
+      "stock": 90
+    },
+    {
+      "id": 14,
+      "name": "DailyDairy Butter",
+      "category": "Dairy",
+      "price": 2.79,
+      "stock": 60
+    },
+    {
+      "id": 15,
+      "name": "FreshFarm Carrot",
+      "category": "Produce",
+      "price": 1.15,
+      "stock": 140
+    },
+    {
+      "id": 16,
+      "name": "GreenValley Soda",
+      "category": "Beverages",
+      "price": 1.99,
+      "stock": 110
+    },
+    {
+      "id": 17,
+      "name": "NatureBest Frozen Pizza",
+      "category": "Frozen",
+      "price": 7.99,
+      "stock": 30
+    },
+    {
+      "id": 18,
+      "name": "PureChoice Tomato Sauce",
+      "category": "Canned Goods",
+      "price": 2.39,
+      "stock": 100
+    },
+    {
+      "id": 19,
+      "name": "GoldenHarvest Pasta",
+      "category": "Dry Goods",
+      "price": 3.19,
+      "stock": 75
+    },
+    {
+      "id": 20,
+      "name": "SnackTime Granola Bar",
+      "category": "Snacks",
+      "price": 1.25,
+      "stock": 150
+    },
+    {
+      "id": 21,
+      "name": "FreshFarm Lettuce",
+      "category": "Produce",
+      "price": 1.05,
+      "stock": 100
+    },
+    {
+      "id": 22,
+      "name": "GreenValley Butter",
+      "category": "Dairy",
+      "price": 3.29,
+      "stock": 70
+    },
+    {
+      "id": 23,
+      "name": "NatureBest Croissant",
+      "category": "Bakery",
+      "price": 2.49,
+      "stock": 45
+    },
+    {
+      "id": 24,
+      "name": "PureChoice Apple Juice",
+      "category": "Beverages",
+      "price": 4.29,
+      "stock": 60
+    },
+    {
+      "id": 25,
+      "name": "GoldenHarvest Nachos",
+      "category": "Snacks",
+      "price": 2.99,
+      "stock": 110
+    },
+    {
+      "id": 26,
+      "name": "SnackTime Peanut Butter",
+      "category": "Snacks",
+      "price": 3.49,
+      "stock": 80
+    },
+    {
+      "id": 27,
+      "name": "DailyDairy Cream Cheese",
+      "category": "Dairy",
+      "price": 2.19,
+      "stock": 50
+    },
+    {
+      "id": 28,
+      "name": "FreshFarm Orange",
+      "category": "Produce",
+      "price": 1.39,
+      "stock": 130
+    },
+    {
+      "id": 29,
+      "name": "GreenValley Sour Cream",
+      "category": "Dairy",
+      "price": 2.59,
+      "stock": 90
+    },
+    {
+      "id": 30,
+      "name": "NatureBest Ice Cream",
+      "category": "Frozen",
+      "price": 5.99,
+      "stock": 40
+    },
+    {
+      "id": 31,
+      "name": "PureChoice Black Beans",
+      "category": "Canned Goods",
+      "price": 1.49,
+      "stock": 120
+    },
+    {
+      "id": 32,
+      "name": "GoldenHarvest Oats",
+      "category": "Dry Goods",
+      "price": 3.79,
+      "stock": 70
+    },
+    {
+      "id": 33,
+      "name": "SnackTime Trail Mix",
+      "category": "Snacks",
+      "price": 4.29,
+      "stock": 90
+    },
+    {
+      "id": 34,
+      "name": "DailyDairy Cottage Cheese",
+      "category": "Dairy",
+      "price": 3.19,
+      "stock": 40
+    },
+    {
+      "id": 35,
+      "name": "FreshFarm Tomato",
+      "category": "Produce",
+      "price": 1.09,
+      "stock": 140
+    },
+    {
+      "id": 36,
+      "name": "GreenValley Lemonade",
+      "category": "Beverages",
+      "price": 2.19,
+      "stock": 100
+    },
+    {
+      "id": 37,
+      "name": "NatureBest Frozen Vegetables",
+      "category": "Frozen",
+      "price": 3.49,
+      "stock": 60
+    },
+    {
+      "id": 38,
+      "name": "PureChoice Spaghetti Sauce",
+      "category": "Canned Goods",
+      "price": 2.29,
+      "stock": 110
+    },
+    {
+      "id": 39,
+      "name": "GoldenHarvest Flour",
+      "category": "Dry Goods",
+      "price": 3.59,
+      "stock": 80
+    },
+    {
+      "id": 40,
+      "name": "SnackTime Granola Cereal",
+      "category": "Snacks",
+      "price": 4.99,
+      "stock": 120
+    },
+    {
+      "id": 41,
+      "name": "FreshFarm Cucumber",
+      "category": "Produce",
+      "price": 0.99,
+      "stock": 130
+    },
+    {
+      "id": 42,
+      "name": "GreenValley Yogurt Drink",
+      "category": "Dairy",
+      "price": 2.99,
+      "stock": 70
+    },
+    {
+      "id": 43,
+      "name": "NatureBest Bagel",
+      "category": "Bakery",
+      "price": 1.99,
+      "stock": 50
+    },
+    {
+      "id": 44,
+      "name": "PureChoice Grape Juice",
+      "category": "Beverages",
+      "price": 4.49,
+      "stock": 65
+    },
+    {
+      "id": 45,
+      "name": "GoldenHarvest Pretzels",
+      "category": "Snacks",
+      "price": 2.79,
+      "stock": 90
+    },
+    {
+      "id": 46,
+      "name": "SnackTime Nut Mix",
+      "category": "Snacks",
+      "price": 5.19,
+      "stock": 70
+    },
+    {
+      "id": 47,
+      "name": "DailyDairy Milkshake",
+      "category": "Dairy",
+      "price": 3.49,
+      "stock": 60
+    },
+    {
+      "id": 48,
+      "name": "FreshFarm Pineapple",
+      "category": "Produce",
+      "price": 2.99,
+      "stock": 80
+    },
+    {
+      "id": 49,
+      "name": "GreenValley Whipped Cream",
+      "category": "Dairy",
+      "price": 2.79,
+      "stock": 90
+    },
+    {
+      "id": 50,
+      "name": "NatureBest Frozen Fruit",
+      "category": "Frozen",
+      "price": 4.99,
+      "stock": 55
+    },
+    {
+      "id": 51,
+      "name": "PureChoice Chickpeas",
+      "category": "Canned Goods",
+      "price": 1.79,
+      "stock": 120
+    },
+    {
+      "id": 52,
+      "name": "GoldenHarvest Cornmeal",
+      "category": "Dry Goods",
+      "price": 3.49,
+      "stock": 75
+    },
+    {
+      "id": 53,
+      "name": "SnackTime Fruit Snacks",
+      "category": "Snacks",
+      "price": 2.49,
+      "stock": 100
+    },
+    {
+      "id": 54,
+      "name": "DailyDairy Cream",
+      "category": "Dairy",
+      "price": 2.99,
+      "stock": 50
+    },
+    {
+      "id": 55,
+      "name": "FreshFarm Bell Pepper",
+      "category": "Produce",
+      "price": 1.25,
+      "stock": 140
+    },
+    {
+      "id": 56,
+      "name": "GreenValley Iced Tea",
+      "category": "Beverages",
+      "price": 2.29,
+      "stock": 110
+    },
+    {
+      "id": 57,
+      "name": "NatureBest Frozen Meat",
+      "category": "Frozen",
+      "price": 7.99,
+      "stock": 45
+    },
+    {
+      "id": 58,
+      "name": "PureChoice Marinara Sauce",
+      "category": "Canned Goods",
+      "price": 2.49,
+      "stock": 100
+    },
+    {
+      "id": 59,
+      "name": "GoldenHarvest Baking Powder",
+      "category": "Dry Goods",
+      "price": 3.29,
+      "stock": 80
+    },
+    {
+      "id": 60,
+      "name": "SnackTime Breakfast Bars",
+      "category": "Snacks",
+      "price": 3.79,
+      "stock": 90
+    },
+    {
+      "id": 61,
+      "name": "FreshFarm Zucchini",
+      "category": "Produce",
+      "price": 1.15,
+      "stock": 130
+    },
+    {
+      "id": 62,
+      "name": "GreenValley Butter Milk",
+      "category": "Dairy",
+      "price": 2.79,
+      "stock": 70
+    },
+    {
+      "id": 63,
+      "name": "NatureBest Danish Pastry",
+      "category": "Bakery",
+      "price": 3.49,
+      "stock": 50
+    },
+    {
+      "id": 64,
+      "name": "PureChoice Cranberry Juice",
+      "category": "Beverages",
+      "price": 4.99,
+      "stock": 65
+    },
+    {
+      "id": 65,
+      "name": "GoldenHarvest Popcorn",
+      "category": "Snacks",
+      "price": 2.19,
+      "stock": 90
+    },
+    {
+      "id": 66,
+      "name": "SnackTime Almonds",
+      "category": "Snacks",
+      "price": 5.99,
+      "stock": 70
+    },
+    {
+      "id": 67,
+      "name": "DailyDairy Cheese Spread",
+      "category": "Dairy",
+      "price": 3.29,
+      "stock": 60
+    },
+    {
+      "id": 68,
+      "name": "FreshFarm Pear",
+      "category": "Produce",
+      "price": 1.49,
+      "stock": 80
+    },
+    {
+      "id": 69,
+      "name": "GreenValley Sour Milk",
+      "category": "Dairy",
+      "price": 2.59,
+      "stock": 90
+    },
+    {
+      "id": 70,
+      "name": "NatureBest Frozen Waffles",
+      "category": "Frozen",
+      "price": 4.49,
+      "stock": 55
+    },
+    {
+      "id": 71,
+      "name": "PureChoice Kidney Beans",
+      "category": "Canned Goods",
+      "price": 1.69,
+      "stock": 120
+    },
+    {
+      "id": 72,
+      "name": "GoldenHarvest Barley",
+      "category": "Dry Goods",
+      "price": 3.99,
+      "stock": 75
+    },
+    {
+      "id": 73,
+      "name": "SnackTime Veggie Chips",
+      "category": "Snacks",
+      "price": 3.19,
+      "stock": 100
+    },
+    {
+      "id": 74,
+      "name": "DailyDairy Ricotta",
+      "category": "Dairy",
+      "price": 3.49,
+      "stock": 50
+    },
+    {
+      "id": 75,
+      "name": "FreshFarm Spinach",
+      "category": "Produce",
+      "price": 1.19,
+      "stock": 140
+    },
+    {
+      "id": 76,
+      "name": "GreenValley Cola",
+      "category": "Beverages",
+      "price": 1.99,
+      "stock": 110
+    },
+    {
+      "id": 77,
+      "name": "NatureBest Frozen Fish",
+      "category": "Frozen",
+      "price": 9.99,
+      "stock": 45
+    },
+    {
+      "id": 78,
+      "name": "PureChoice Alfredo Sauce",
+      "category": "Canned Goods",
+      "price": 2.79,
+      "stock": 100
+    },
+    {
+      "id": 79,
+      "name": "GoldenHarvest Baking Soda",
+      "category": "Dry Goods",
+      "price": 3.19,
+      "stock": 80
+    },
+    {
+      "id": 80,
+      "name": "SnackTime Breakfast Cereal",
+      "category": "Snacks",
+      "price": 4.59,
+      "stock": 90
+    },
+    {
+      "id": 81,
+      "name": "FreshFarm Kale",
+      "category": "Produce",
+      "price": 1.25,
+      "stock": 130
+    },
+    {
+      "id": 82,
+      "name": "GreenValley Cream",
+      "category": "Dairy",
+      "price": 3.29,
+      "stock": 70
+    },
+    {
+      "id": 83,
+      "name": "NatureBest Muffin",
+      "category": "Bakery",
+      "price": 2.89,
+      "stock": 50
+    },
+    {
+      "id": 84,
+      "name": "PureChoice Peach Juice",
+      "category": "Beverages",
+      "price": 4.39,
+      "stock": 65
+    },
+    {
+      "id": 85,
+      "name": "GoldenHarvest Salted Nuts",
+      "category": "Snacks",
+      "price": 3.49,
+      "stock": 90
+    },
+    {
+      "id": 86,
+      "name": "SnackTime Cashews",
+      "category": "Snacks",
+      "price": 6.49,
+      "stock": 70
+    },
+    {
+      "id": 87,
+      "name": "DailyDairy Sour Cream",
+      "category": "Dairy",
+      "price": 2.99,
+      "stock": 60
+    },
+    {
+      "id": 88,
+      "name": "FreshFarm Mango",
+      "category": "Produce",
+      "price": 2.49,
+      "stock": 80
+    },
+    {
+      "id": 89,
+      "name": "GreenValley Kefir",
+      "category": "Dairy",
+      "price": 3.59,
+      "stock": 90
+    },
+    {
+      "id": 90,
+      "name": "NatureBest Frozen Corn",
+      "category": "Frozen",
+      "price": 3.99,
+      "stock": 55
+    },
+    {
+      "id": 91,
+      "name": "PureChoice Lentils",
+      "category": "Canned Goods",
+      "price": 1.59,
+      "stock": 120
+    },
+    {
+      "id": 92,
+      "name": "GoldenHarvest Wheat Flour",
+      "category": "Dry Goods",
+      "price": 3.79,
+      "stock": 75
+    },
+    {
+      "id": 93,
+      "name": "SnackTime Fruit Bars",
+      "category": "Snacks",
+      "price": 2.99,
+      "stock": 100
+    },
+    {
+      "id": 94,
+      "name": "DailyDairy Milk Powder",
+      "category": "Dairy",
+      "price": 5.49,
+      "stock": 50
+    },
+    {
+      "id": 95,
+      "name": "FreshFarm Eggplant",
+      "category": "Produce",
+      "price": 1.49,
+      "stock": 140
+    },
+    {
+      "id": 96,
+      "name": "GreenValley Sparkling Water",
+      "category": "Beverages",
+      "price": 1.99,
+      "stock": 110
+    },
+    {
+      "id": 97,
+      "name": "NatureBest Frozen Shrimp",
+      "category": "Frozen",
+      "price": 12.99,
+      "stock": 45
+    },
+    {
+      "id": 98,
+      "name": "PureChoice Salsa",
+      "category": "Canned Goods",
+      "price": 2.29,
+      "stock": 100
+    },
+    {
+      "id": 99,
+      "name": "GoldenHarvest Corn Flour",
+      "category": "Dry Goods",
+      "price": 3.39,
+      "stock": 80
+    },
+    {
+      "id": 100,
+      "name": "SnackTime Energy Bars",
+      "category": "Snacks",
+      "price": 4.99,
+      "stock": 90
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "created_at": "2025-05-01T10:15:00Z"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "created_at": "2025-05-03T14:22:00Z"
+    },
+    {
+      "id": 3,
+      "user_id": 3,
+      "created_at": "2025-05-04T11:11:00Z"
+    },
+    {
+      "id": 4,
+      "user_id": 4,
+      "created_at": "2025-05-05T16:30:00Z"
+    },
+    {
+      "id": 5,
+      "user_id": 5,
+      "created_at": "2025-05-06T09:45:00Z"
+    }
+  ],
+  "cart_items": [
+    {
+      "cart_id": 1,
+      "product_id": 1,
+      "quantity": 3
+    },
+    {
+      "cart_id": 1,
+      "product_id": 5,
+      "quantity": 1
+    },
+    {
+      "cart_id": 2,
+      "product_id": 10,
+      "quantity": 2
+    },
+    {
+      "cart_id": 3,
+      "product_id": 15,
+      "quantity": 4
+    },
+    {
+      "cart_id": 3,
+      "product_id": 20,
+      "quantity": 2
+    },
+    {
+      "cart_id": 4,
+      "product_id": 25,
+      "quantity": 1
+    },
+    {
+      "cart_id": 4,
+      "product_id": 30,
+      "quantity": 3
+    },
+    {
+      "cart_id": 5,
+      "product_id": 35,
+      "quantity": 2
+    },
+    {
+      "cart_id": 5,
+      "product_id": 40,
+      "quantity": 5
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "order_date": "2025-05-07T09:00:00Z",
+      "status": "shipped"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "order_date": "2025-05-08T12:30:00Z",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "user_id": 3,
+      "order_date": "2025-05-09T14:15:00Z",
+      "status": "delivered"
+    }
+  ],
+  "order_items": [
+    {
+      "order_id": 1,
+      "product_id": 1,
+      "quantity": 1,
+      "price": 1.29
+    },
+    {
+      "order_id": 1,
+      "product_id": 5,
+      "quantity": 2,
+      "price": 2.49
+    },
+    {
+      "order_id": 2,
+      "product_id": 10,
+      "quantity": 3,
+      "price": 3.99
+    },
+    {
+      "order_id": 3,
+      "product_id": 15,
+      "quantity": 2,
+      "price": 1.15
+    },
+    {
+      "order_id": 3,
+      "product_id": 20,
+      "quantity": 4,
+      "price": 1.25
+    }
+  ],
+  "invoices": [
+    {
+      "id": 1,
+      "order_id": 1,
+      "amount": 6.27,
+      "issued_at": "2025-05-07T10:00:00Z",
+      "paid": true
+    },
+    {
+      "id": 2,
+      "order_id": 2,
+      "amount": 11.97,
+      "issued_at": "2025-05-08T13:00:00Z",
+      "paid": false
+    },
+    {
+      "id": 3,
+      "order_id": 3,
+      "amount": 7.85,
+      "issued_at": "2025-05-09T15:00:00Z",
+      "paid": true
+    }
+  ]
+}
