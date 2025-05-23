@@ -99,7 +99,8 @@ A 12-week journey to become a capable data scientist, from fundamentals to portf
 
 ---
 
-## ✅ Tools Summarydd
+## ✅ Tools Summary
+
 | Category             | Tools & Libraries                     |
 |----------------------|----------------------------------------|
 | Programming          | Python, SQL                            |
